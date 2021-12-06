@@ -1,7 +1,0 @@
-allennlp_new
-============
-
-.. toctree::
-   :maxdepth: 4
-
-   allennlp_new
