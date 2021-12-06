@@ -1,0 +1,21 @@
+allennlp\_new package
+=====================
+
+Submodules
+----------
+
+allennlp\_new.skeleton module
+-----------------------------
+
+.. automodule:: allennlp_new.skeleton
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: allennlp_new
+   :members:
+   :undoc-members:
+   :show-inheritance:
