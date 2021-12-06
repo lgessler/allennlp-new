@@ -91,7 +91,7 @@ source_suffix = ".rst"
 master_doc = "index"
 
 # General information about the project.
-project = "allennlp_new"
+project = "allennlp-new"
 copyright = "2021, Luke Gessler"
 
 # The version info for the project you're documenting, acts as replacement for
